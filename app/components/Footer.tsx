@@ -32,10 +32,10 @@ export default function Footer() {
           <h4 className="text-white font-semibold text-xs uppercase tracking-widest">Contact Info</h4>
           <p className="text-gray-300">Home 71, ECB Chattar, Mirpur, Dhaka, Bangladesh</p>
           <p className="text-gray-300">
-            <span className="text-gray-500">Phone:</span> +880 1410638365
+            <span className="text-gray-500">Phone:</span> +880 1348749147
           </p>
           <p className="text-gray-300">
-            <span className="text-gray-500">Email:</span> frontier.technologies@gmail.com
+            <span className="text-gray-500">Email:</span> contact.frontiertechbd@gmail.com
           </p>
         </div>
 
