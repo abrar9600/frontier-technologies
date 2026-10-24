@@ -48,7 +48,7 @@ export default function ContactPage() {
                 </div>
                 <div>
                   <h3 className="text-xs text-gray-500 font-semibold uppercase">Phone / Mobile</h3>
-                  <p className="text-white font-medium mt-0.5">+880 1410638365</p>
+                  <p className="text-white font-medium mt-0.5">+880 1348749147</p>
                 </div>
               </div>
 
@@ -58,7 +58,7 @@ export default function ContactPage() {
                 </div>
                 <div>
                   <h3 className="text-xs text-gray-500 font-semibold uppercase">Email Address</h3>
-                  <p className="text-white font-medium mt-0.5">frontier.technologies@gmail.com</p>
+                  <p className="text-white font-medium mt-0.5">contact.frontiertechbd@gmail.com</p>
                 </div>
               </div>
 
